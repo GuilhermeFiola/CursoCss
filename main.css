@@ -1,8 +1,17 @@
-section {
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+#product-overview {
     background: red;
 }
 
-h1 {
+#product-overview h1 {
     color: white;
     font-family: 'Anton', sans-serif; /* Usa definição do navegador, pode ser verificado em fontes */
+}
+
+.section-title {
+    color: #2ddf5c;
+    font-family: inherit;
 }
