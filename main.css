@@ -8,11 +8,8 @@ body {
 }
 
 #product-overview {
-    background: red;
-    padding: 20px;
-    border: 5px black solid;
-    margin: 20px;
-    /* width: 50%; */
+    background: #ff1b68;
+    padding: 10px;
     width: 100%;
     height: 528px;
 }
@@ -30,4 +27,14 @@ body {
     color: #2ddf5c;
     font-family: inherit;
     /* margin:20px; Verificação da margem */ 
+}
+
+.main-header {
+    background-color: #2ddf5c;
+    padding: 8px 16px;
+    width: 100%;
+}
+
+.main-nav__item {
+    display: inline-block;
 }
